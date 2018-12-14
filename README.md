@@ -5,4 +5,5 @@ At any point in time, the user can request to see the past 10 highest responses.
 To install and run:
 ```javascript
  git clone https://github.com/bigal2331/input-watch-game.git
+ npm install
  npm run start
