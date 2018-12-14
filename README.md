@@ -3,7 +3,7 @@ A simple game that monitors live user inputs on a server. The server tallies up 
 At any point in time, the user can request to see the past 10 highest responses.
 
 To install:
-''' git clone https://github.com/bigal2331/input-watch-game.git
+ ` git clone https://github.com/bigal2331/input-watch-game.git`
 
 To run:
-''' npm run app
+ `npm run app`
